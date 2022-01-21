@@ -1,0 +1,17 @@
+
+h1
+{
+	color: navy; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("istockphoto-1128195882-612x612.jpg");
+	background-position: center;
+	background-size:cover;
+}
+
+#canvaz{
+border-width: 6px;
+background-color: aqua;
+border-style:ridge;
+}
